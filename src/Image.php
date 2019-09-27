@@ -1,6 +1,6 @@
 <?php
 
-namespace Xplosio\PhpFramework;
+namespace framework;
 
 use Exception;
 

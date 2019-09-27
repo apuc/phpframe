@@ -46,7 +46,7 @@ _index.php_
 	<?php
     
     require '../vendor/autoload.php';
-    new \Xplosio\PhpFramework\App();
+    new \framework\App();
 
 Конфигурационные настройки хранятся в папке `config`. `env.php` содержит настройки, привязанные к конкретному окружению (настройки БД и пр.), `app.php` содержит общие настройки приложения.
 
