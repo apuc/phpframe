@@ -1,5 +1,5 @@
 {
-    "name": "alkaruno/phpframework",
+    "name": "craft-group/phpframework",
     "description": "Yet another PHP Framework",
     "require": {
         "php": ">=7.0",
